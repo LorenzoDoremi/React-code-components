@@ -1,5 +1,5 @@
 # React-code-components
-a pack of different react native components.
+a pack of different React.js components.
 
 -----
 Breadcrumb.js : a simple location tracker that returns a list of the nested website current position. 
