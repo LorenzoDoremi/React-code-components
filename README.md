@@ -9,5 +9,12 @@ Needed imports:
  Link from "react-router-dom";
  
 -----
- 
 
+Gallery.js
+
+A website-mocking masonry gallery passing data in GET, by props and from saved informations.
+
+Needed imports:
+ Animate Presence from "framer-motion"
+ 
+ ----
