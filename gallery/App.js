@@ -24,9 +24,7 @@ class App extends React.Component {
               <li>
                 <Link to="/masonry">Masonry</Link>
               </li>
-              <li>
-                <Link to="/users">Users</Link>
-              </li>
+           
             </ul>
           </nav>
         </div>
@@ -54,21 +52,14 @@ class App extends React.Component {
         
           
            </Route>
-           <Route  path="/users">
-          
-         <Users />
-       
-           </Route>
-
+        
 
 
           
            
          
          </Switch>
-          <Route path="/">
-      
-          </Route>
+       
           </>
         )} />
        
