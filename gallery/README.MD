@@ -3,7 +3,7 @@ Since it's based on nesting, it can't be used with exact paths.
 
 To call it, just do something like:
 
-
+```
   <Route  path="/mygallerypage">
            <Masonry class={"masonry"} vertical={true} >
                <p src="pic1.jpg" h1="Frank Owo" mIndex="0"></p>
@@ -20,3 +20,4 @@ To call it, just do something like:
            </Route>
            
          
+```
