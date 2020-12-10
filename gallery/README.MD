@@ -1,6 +1,8 @@
 This gallery is a more intricated example of nested routing and framer motion applied to a gallery. 
 Since it's based on nesting, it can't be used with exact paths. 
 
+Images are being put in public/assets.
+
 To call it, just do something like:
 
 ```
