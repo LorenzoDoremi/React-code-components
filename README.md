@@ -8,7 +8,7 @@ Breadcrumb.js : a simple location tracker that returns a list of the nested webs
 
 Gallery.js
 
-A website-mocking masonry gallery passing data in GET, by props and from saved informations.
+A website-mocking masonry gallery passing data in props and from saved informations.
 
  
  ----
