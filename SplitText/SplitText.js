@@ -13,6 +13,7 @@ export default function SplitText({ text, initial, animate, exit, duration, stag
   return word.map((value, index) => {
     return (
       <motion.span className="splitspan"
+        style={{display: "inline-block"}}
         initial={initialS}
         animate={{
           ...animateS,
